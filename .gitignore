@@ -1,0 +1,7 @@
+# .gitignore content
+.terraform/
+*.tfplan
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+terraform.tfvars # If you use this file for sensitive vars
